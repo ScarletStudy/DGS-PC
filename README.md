@@ -1,4 +1,4 @@
-# DGS-PC
+# TGAAC Mod
 Mod of the PC/Steam version of The Great Ace Attorney Chronicles
 
 ## Installation
