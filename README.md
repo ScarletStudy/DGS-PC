@@ -1,6 +1,10 @@
 # TGAAC Mod
 Mod of the PC/Steam version of The Great Ace Attorney Chronicles
 
+**This initial alpha version only contains script changes, no texture mods. The script changes are not optional in this initial version, they will be in the next release.**
+
+For a full list of changed names/terms, see [ScriptChanges.md](https://github.com/ScarletStudy/DGS-PC/blob/main/ScriptChanges.md).
+
 ## Installation
 * Right-click _The Great Ace Attorney Chronicles_ in your Steam Library > Manage > Browse local files
 * If you're using Admiral Curtiss' [dgs hackfix](https://github.com/AdmiralCurtiss/dgs_hackfix), rename that file from `dinput8.dll` to `hackfix.dll`
