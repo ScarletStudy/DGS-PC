@@ -1,7 +1,9 @@
 # TGAAC Mod
 Mod of the PC/Steam version of The Great Ace Attorney Chronicles
 
-**This initial alpha version only contains script changes, no texture mods. The script changes are not optional in this initial version, they will be in the next release.**
+**This initial alpha version only contains script changes - names and places, no texture mods. The script changes are not optional in this initial version, they will be in the next release.**
+
+**This does not yet contain our fan-translated English script.**
 
 For a full list of changed names/terms, see [ScriptChanges.md](https://github.com/ScarletStudy/DGS-PC/blob/main/ScriptChanges.md).
 
