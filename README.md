@@ -16,6 +16,7 @@ Get the latest version from [Releases](https://github.com/ScarletStudy/DGS-PC/re
 ## Notes
 
 * Our mod is fully compatible with Admiral Curtiss' [dgs hackfix](https://github.com/AdmiralCurtiss/dgs_hackfix), which is really worth trying out if you haven't done so yet. Our mod will chainload it if it detects it. 
+* This mod is developed and tested for the WorldWide (English script) and the Japanese (Japanese and English script) version of the game
 * **This is an alpha version of our planned mod.** It doesn't contain anything besides the script mod engine so far, it's mostly to find bugs and words we missed. Textures are not yet replaced by this mod.
 
 ## Planned Features
