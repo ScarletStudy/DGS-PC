@@ -22,6 +22,7 @@ Get the latest version from [Releases](https://github.com/ScarletStudy/DGS-PC/re
 ## Planned Features
 
 * Texture replacements
+* New font
 * Delta patching on initial run
 * Optional script modifications - that means that you can select which names/terms you want to replace and which ones you want to remain unchanged
 * In-game menu for options and possibly debugging and game modding
