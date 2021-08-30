@@ -22,6 +22,7 @@ Get the latest version from [Releases](https://github.com/ScarletStudy/DGS-PC/re
 
 ## Known Issues
 * A puzzle in the final episode of DGS2 still requires you to enter the offically localized name
+* The script will bleed out of bounds in several places. This will be fixed after we've swapped out the font.
 
 ## Planned Features
 * Texture replacements
